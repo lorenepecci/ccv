@@ -1,0 +1,29 @@
+
+body{
+    background-color: #ece2e1;
+
+    font-family: Copperplate, Papyrus, fantasy;
+
+  }
+
+hr{
+    border-style: dotted none none;
+    border-color:  #8f4f4f;
+    border-width: 5px;
+    width:10%;
+
+  }
+  img{
+    height: 200px;
+  }
+
+  h1 {
+    text-align: 50%;
+    color: #b7657b;
+    font-size: 60px;
+  }
+
+h3 {
+  color:#b7657b;
+  font-size: 30px;
+}
